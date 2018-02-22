@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using TechJobs.Models;
 
-//provides the base (common) view that JobFields, NewJob, and SearchJobs View Models build on
+//provides the base (common) view that JobFields, NewJob, and SearchJobs View Models build on.
 
 namespace TechJobs.ViewModels
 {
